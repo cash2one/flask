@@ -1,0 +1,1524 @@
+﻿
+
+你把我灌醉
+2#song:你把我灌醉	singer:邓紫棋	album:X.X.X.Live
+2#song:你把我灌醉	singer:G.E.M.邓紫棋	album:
+3#song:你把我灌醉	singer:黄大炜	album:绝对收藏黄大炜
+1#song:你把我灌醉	singer:张赫宣	album:中国好声音第6期
+1#song:你把我灌醉	singer:黄小琥	album:Voice 3 L.V 醉爱情歌全辑
+1#song:你把我灌醉	singer:刘美君	album:"Love Addict" Mandarin
+2#song:你把我灌醉	singer:刘德华	album:爱如此神奇
+2#song:你把我灌醉	singer:关喆	album:中国好声音杨坤组四进一
+1#song:你把我灌醉	singer:动力火车	album:就是红辉煌全记录
+3#song:你把我灌醉	singer:张赫宣,黄大炜	album:中国好声音总决赛
+
+
+龙卷风
+3#song:龙卷风	singer:周杰伦	album:钢琴恋曲101
+1#song:龙卷风	singer:纯音乐	album:流星.双妹.唛
+2#song:龙卷风	singer:林忆莲	album:
+1#song:龙卷风	singer:施艾敏	album:
+1#song:龙卷风	singer:梁紫丹	album:丝丝入扣
+1#song:龙卷风	singer:简迷离	album:
+2#song:龙卷风	singer:杨钰莹	album:梦中花
+2#song:龙卷风	singer:群星	album:情迷萨克斯
+1#song:龙卷风	singer:林翠萍	album:盼家兴
+1#song:龙卷风	singer:马煜清	album:
+
+
+郑源
+2#song:爱情路	singer:郑源	album:
+3#song:入戏太深	singer:郑源	album:
+3#song:牵挂你的人是我	singer:郑源	album:
+1#song:荷塘月色（粤语版）	singer:郑源	album:
+2#song:如果你幸福	singer:郑源	album:
+2#song:我在想念你	singer:郑源	album:
+2#song:琉璃锁	singer:郑源	album:
+1#song:雪殇	singer:郑源	album:
+2#song:你幸福我快乐	singer:郑源	album:
+2#song:好怀念	singer:郑源	album:
+
+
+
+张杰
+2#song:剑心	singer:张杰	album:
+2#song:逆战	singer:张杰	album:
+2#song:他不懂	singer:张杰	album:
+3#song:勿忘心安	singer:张杰	album:
+1#song:逆态度	singer:张杰	album:
+3#song:我们都一样	singer:张杰	album:
+2#song:天下	singer:张杰	album:
+2#song:明天过后	singer:张杰	album:
+3#song:何必在一起	singer:张杰	album:
+2#song:着魔	singer:张杰	album:
+
+
+
+
+张靓颖
+1#song:有没有	singer:张靓颖	album:
+2#song:说些什么	singer:张靓颖	album:
+1#song:书签	singer:张靓颖	album:
+1#song:永远	singer:张靓颖	album:
+2#song:感觉	singer:张靓颖	album:
+2#song:我是我的	singer:张靓颖	album:
+2#song:Unwind	singer:张靓颖	album:
+2#song:微笑以后	singer:张靓颖	album:
+3#song:Get Out Of My Life	singer:张靓颖	album:
+2#song:一起	singer:张靓颖	album:
+
+
+
+茜拉
+3#song:为梦而狂	singer:关喆,茜拉	album:
+3#song:天神纪	singer:茜拉	album:
+1#song:A Moment Like This	singer:茜拉	album:
+2#song:Forever Love（声动亚洲）	singer:茜拉	album:
+2#song:Maaf	singer:茜拉	album:
+2#song:Masih Aku Cinta	singer:茜拉	album:
+3#song:Xia Yi Bu (Patah Seribu versi Mandarin)	singer:茜拉	album:
+2#song:Sedar	singer:茜拉	album:
+2#song:Tulus	singer:茜拉	album:
+2#song:Cinta Hati	singer:茜拉	album:
+
+
+
+
+汪峰
+3#song:存在	singer:汪峰	album:
+2#song:生来彷徨	singer:汪峰	album:
+3#song:北京北京	singer:汪峰	album:
+3#song:怒放的生命	singer:汪峰	album:
+2#song:当我想你的时候	singer:汪峰	album:
+1#song:一起摇摆	singer:汪峰	album:
+2#song:春天里	singer:汪峰	album:
+1#song:你是我心爱的姑娘	singer:汪峰	album:
+1#song:像梦一样自由	singer:汪峰	album:
+2#song:勇敢的心	singer:汪峰	album:
+
+
+
+
+韩红
+2#song:谈何容易	singer:韩红	album:
+2#song:美丽的神话	singer:孙楠,韩红	album:
+3#song:天路(Traditional Version)	singer:韩红	album:
+3#song:天亮了	singer:韩红	album:
+3#song:青藏高原	singer:韩红	album:
+2#song:那片海	singer:韩红	album:
+2#song:青春	singer:韩红	album:
+1#song:情深谊长	singer:韩红	album:
+1#song:相爱多年	singer:许志安,韩红	album:
+1#song:绒花	singer:韩红	album:
+
+
+
+
+陈奕迅
+1#song:你给我听好	singer:陈奕迅	album:
+2#song:稳稳的幸福	singer:陈奕迅	album:
+3#song:十年	singer:陈奕迅	album:
+2#song:因为爱情	singer:王菲,陈奕迅	album:
+1#song:可以了	singer:陈奕迅	album:
+2#song:好久不见	singer:陈奕迅	album:
+3#song:浮夸	singer:陈奕迅	album:
+2#song:阴天快乐	singer:陈奕迅	album:
+2#song:爱情转移	singer:陈奕迅	album:
+3#song:红玫瑰	singer:陈奕迅	album:
+
+
+
+
+如果没有你
+3#song:如果没有你	singer:莫文蔚	album:如果没有你
+0#song:还有我	singer:任贤齐	album:如果没有你
+3#song:如果没有你	singer:郑虹,李代沫	album:中国好声音刘欢组PK
+1#song:如果没有你	singer:阿正	album:如果你是我眼中的一滴泪
+2#song:如果没有你	singer:李代沫	album:中国好声音总决赛
+1#song:如果没有你	singer:萧敬腾	album:爱的时刻自选辑
+0#song:Am Pm	singer:莫文蔚	album:如果没有你
+0#song:一个人睡	singer:莫文蔚	album:如果没有你
+0#song:手	singer:莫文蔚	album:如果没有你
+0#song:野	singer:莫文蔚	album:如果没有你
+
+
+
+
+千里之外
+3#song:千里之外	singer:费玉清	album:回想曲 青青校树
+3#song:千里之外	singer:周杰伦_宋祖英	album:
+2#song:千里之外	singer:许嵩	album:
+1#song:千里之外	singer:龚玥	album:流行红
+1#song:千里之外	singer:付娜	album:
+0#song:千里之外	singer:DJ小可	album:DJ小可 ②涅磐凤凰
+1#song:千里之外	singer:刘芳	album:刘芳 同名专辑
+1#song:千里之外	singer:刘雨鑫	album:爱如琥珀
+2#song:千里之外	singer:华语群星	album:先锋帝国
+1#song:千里之外	singer:关燕萍	album:萍水相逢
+
+
+
+王菲
+3#song:红豆	singer:王菲	album:
+2#song:致青春	singer:王菲	album:
+3#song:因为爱情	singer:王菲,陈奕迅	album:
+3#song:传奇	singer:王菲	album:
+2#song:我愿意	singer:王菲	album:
+1#song:容易受伤的女人	singer:王菲	album:
+2#song:矜持	singer:王菲	album:
+2#song:流年	singer:王菲	album:
+2#song:人间	singer:王菲	album:
+2#song:笑忘书	singer:王菲	album:
+
+
+
+林俊杰
+3#song:江南	singer:林俊杰	album:
+3#song:曹操	singer:林俊杰	album:
+2#song:背对背拥抱	singer:林俊杰	album:
+2#song:小酒窝	singer:林俊杰,蔡卓妍	album:
+3#song:一千年以后	singer:林俊杰	album:
+2#song:爱笑的眼睛	singer:林俊杰	album:
+1#song:黑暗骑士	singer:林俊杰,阿信	album:
+2#song:美人鱼	singer:林俊杰	album:
+2#song:Alwaysonline	singer:林俊杰	album:
+2#song:我还想她	singer:林俊杰	album:
+
+
+
+
+梅艳芳
+3#song:女人花	singer:梅艳芳	album:
+2#song:坏女孩	singer:梅艳芳	album:
+2#song:似是故人来	singer:梅艳芳	album:
+2#song:一生爱你千百回	singer:梅艳芳	album:
+3#song:亲密爱人	singer:梅艳芳	album:
+1#song:夕阳之歌	singer:梅艳芳	album:
+3#song:相爱很难	singer:梅艳芳,张学友	album:
+2#song:血染的风采	singer:梅艳芳	album:
+3#song:相爱很难	singer:梅艳芳,张学友	album:
+2#song:心仍是冷	singer:伦永亮,梅艳芳	album:
+
+
+
+
+存在
+3#song:存在	singer:汪峰	album:生无所求
+0#song:你会爱我到什么时候	singer:雷婷	album:存在
+2#song:存在	singer:周传雄	album:星空下的传说
+1#song:存在	singer:林育群	album:未来的第一站
+1#song:存在	singer:电视原声	album:爱的奇蹟-乔杰立最红偶像剧
+1#song:存在	singer:乔杰立巨星	album:西街少年 电视原声带
+1#song:存在	singer:林育羣	album:未来的第一站
+1#song:存在	singer:单冲峰	album:中国好声音第二季 第3期
+1#song:存在	singer:雷婷	album:存在
+1#song:存在	singer:林海	album:远方的寂静
+
+
+
+
+遇见
+3#song:遇见	singer:孙燕姿	album:My Story, Your Song 经典全纪录 (2010香港特别版) Cd2
+1#song:遇见	singer:张瑶	album:
+0#song:张三的歌	singer:蔡琴	album:遇见
+1#song:遇见	singer:情歌伴侣	album:情歌伴侣 Vol. 1
+2#song:遇见	singer:金润吉	album:中国好声音第二季 巅峰之夜
+2#song:遇见	singer:张敬轩	album:轩动心弦演唱会
+3#song:遇见	singer:纯音乐	album:
+1#song:遇见	singer:庾澄庆	album:到死都要18岁-新歌加精选全记录
+1#song:遇见	singer:云菲菲	album:小小新娘花
+1#song:遇见	singer:陈楚生	album:快乐男声陈楚生歌曲
+
+
+
+
+真实
+2#song:记得	singer:张惠妹	album:真实
+2#song:真实	singer:李琦	album:中国好声音第二季 巅峰之夜
+3#song:真实	singer:张惠妹	album:真实
+1#song:永远的画面	singer:张惠妹	album:真实
+1#song:我恨我愛你	singer:张惠妹	album:真实
+1#song:女人说	singer:张惠妹	album:真实
+1#song:因为你沒说	singer:张惠妹	album:真实
+1#song:感应	singer:张惠妹	album:真实
+1#song:了不起	singer:张惠妹	album:真实
+1#song:瞬间	singer:张惠妹	album:真实
+
+
+
+
+我要我们在一起
+3#song:我要我们在一起	singer:范晓萱	album:我要我们在一起
+2#song:我要我们在一起	singer:邓紫棋	album:X.X.X.Live
+2#song:我要我们在一起	singer:杨宗纬,李泉	album:我是歌手 总决赛
+1#song:我要我们在一起	singer:丁少华	album:中国好声音第3期
+1#song:我要我们在一起	singer:林宥嘉	album:香港迷宫演唱会数位特辑
+1#song:我要我们在一起	singer:曾一鸣	album:中国最强音 第十一期
+1#song:我要我们在一起	singer:刘庭羽	album:土地公土地婆 电视原声带
+1#song:我要我们在一起	singer:黄小琥	album:The Voice 现场演唱全记录
+2#song:我要我们在一起	singer:陈羽凡,肖懿航	album:最美和声 第12期
+1#song:我要我们在一起	singer:黄稔钦,许明明	album:中国梦之声 第7期
+
+
+
+
+风往北吹
+3#song:风往北吹	singer:孙楠	album:南极光
+1#song:风往北吹	singer:孙俪	album:
+1#song:风往北吹	singer:汪峰	album:
+1#song:风往北吹	singer:东来东往	album:
+1#song:风往北吹	singer:零点乐队	album:
+1#song:风往北吹	singer:DJ	album:
+1#song:风往北吹	singer:魏晨	album:
+1#song:风往北吹	singer:君君	album:
+0#song:风往北吹	singer:	album:
+3#song:风往北吹（Live版）	singer:孙楠	album:
+
+
+
+
+就是我
+1#song:I’m The One (就是我)	singer:2AM	album:Saint O'Clock
+3#song:就是我	singer:林俊杰	album:乐行者
+3#song:就是我	singer:林俊杰	album:音乐进化全过程
+1#song:就是我	singer:降央卓玛	album:
+1#song:就是我	singer:回音哥	album:
+1#song:就是我	singer:荒山亮	album:趁我还会记-戏剧主题曲精选
+1#song:就是我	singer:杨培安	album:彩色的年纪
+1#song:就是我	singer:蓝翼	album:
+1#song:就是我	singer:宇恒	album:2006 Real 创作集
+1#song:就是我	singer:海鸣威	album:
+
+
+
+
+东风破
+3#song:东风破	singer:周杰伦	album:星座圣典
+1#song:东风破	singer:黄江琴	album:东风破
+0#song:吻和泪	singer:黄江琴	album:东风破
+0#song:每一个晚上	singer:黄江琴	album:东风破
+0#song:秋来秋去	singer:黄江琴	album:东风破
+0#song:记事本	singer:黄江琴	album:东风破
+0#song:晚秋	singer:黄江琴	album:东风破
+0#song:偏偏喜欢你	singer:黄江琴	album:东风破
+1#song:东风破(清晰版)	singer:刘芳	album:馨馨醉 DSD
+0#song:女人花	singer:黄江琴	album:东风破
+
+
+
+
+一路向北
+3#song:一路向北	singer:周杰伦	album:十一月的萧邦
+1#song:一路向北	singer:冷漠	album:我是歌手
+1#song:一路向北	singer:南风	album:刺猬与玫瑰
+1#song:一路向北	singer:许崇	album:
+1#song:一路向北	singer:六哲	album:
+1#song:一路向北	singer:许嵩	album:
+1#song:一路向北	singer:嘉恋	album:
+1#song:一路向北	singer:张濛	album:脱壳金婵
+1#song:一路向北	singer:张克帆	album:
+1#song:一路向北	singer:褚乔	album:
+
+
+
+
+爱你
+2#song:爱你	singer:G.E.M. 邓紫棋	album:
+1#song:爱你	singer:陈芳语	album:人海中遇见你-最佳婚礼歌曲
+3#song:爱你	singer:Kimberley	album:Kimberley首张同名专辑
+1#song:爱你	singer:许志安	album:愿天下有情人
+2#song:爱你	singer:纯音乐	album:许志安音乐盒
+1#song:爱你	singer:许志安	album:许志安第一回合演唱会
+1#song:爱你	singer:王心凌	album:美丽的日子 新歌+精选
+1#song:羽毛	singer:王心凌	album:爱你
+2#song:A.I.N.Y.(爱你) (爱你)	singer:G.E.M. 邓紫棋	album:
+1#song:爱你	singer:Jason Chen	album:节省钱
+
+
+
+
+想唱就唱
+2#song:想唱就唱	singer:TFBOYS	album:想唱就唱
+3#song:想唱就唱	singer:张含韵	album:我很张含韵
+2#song:想唱就唱	singer:超级女声	album:2005超级女生总决赛十大金曲
+2#song:想唱就唱	singer:张靓颖,李宇春,周笔畅	album:Don T Cry For Me Argentina
+2#song:想唱就唱	singer:苏妙玲	album:2011快乐女声四进三
+1#song:想唱就唱	singer:快乐男声	album:
+1#song:想唱就唱	singer:童声合唱	album:蝴蝶传说
+3#song:想唱就唱	singer:张韵涵	album:
+1#song:用心歌唱	singer:孙滢迎	album:滢梦丝语
+1#song:想唱就唱	singer:卢品帆	album:
+
+
+
+
+天使之翼
+1#song:太早	singer:刘允乐	album:刘允乐 同名专辑
+1#song:累格	singer:戴爱玲	album:天使之翼
+1#song:离骚	singer:戴爱玲	album:天使之翼
+1#song:可惜你不在	singer:戴爱玲	album:天使之翼
+0#song:坏坏惹人爱	singer:戴爱玲,信乐团	album:天使之翼
+0#song:天使之翼	singer:戴爱玲	album:天使之翼
+0#song:对的人	singer:戴爱玲	album:天使之翼
+0#song:爱自己	singer:戴爱玲	album:天使之翼
+0#song:恋单	singer:戴爱玲	album:天使之翼
+0#song:恶梦	singer:戴爱玲	album:天使之翼
+
+
+
+
+张雨生
+3#song:大海	singer:张雨生	album:
+2#song:最爱的人伤我最深	singer:张雨生,张惠妹	album:
+2#song:口是心非	singer:张雨生	album:
+2#song:我期待	singer:张雨生,陶晶莹	album:
+1#song:一天到晚游泳的鱼	singer:张雨生	album:
+3#song:我的未来不是梦	singer:张雨生	album:
+3#song:我期待	singer:张雨生	album:
+2#song:天天想你	singer:张雨生	album:
+1#song:三国杀	singer:张雨生	album:
+2#song:我是一棵秋天的树	singer:张雨生	album:
+
+
+
+
+徐小凤
+1#song:风雨同路	singer:徐小凤	album:
+2#song:每一步	singer:徐小凤	album:
+2#song:心恋	singer:徐小凤	album:
+1#song:风的季节	singer:徐小凤	album:
+2#song:明月千里寄相思 (国)	singer:徐小凤	album:
+3#song:南屏晚钟(国)	singer:徐小凤	album:
+3#song:今宵多珍重(国)	singer:徐小凤	album:
+2#song:别亦难 (国)	singer:徐小凤	album:
+1#song:浪子心声	singer:徐小凤	album:
+3#song:天涯歌女 (国)	singer:徐小凤	album:
+
+
+
+
+凤飞飞
+2#song:追梦人	singer:凤飞飞	album:
+2#song:掌声响起	singer:凤飞飞	album:
+3#song:爱你在心口难开	singer:凤飞飞	album:
+2#song:人在旅途	singer:凤飞飞	album:
+3#song:春风吻上我的脸	singer:凤飞飞	album:
+2#song:追梦人	singer:凤飞飞	album:
+2#song:情人的眼泪	singer:凤飞飞	album:
+2#song:月朦胧鸟朦胧	singer:凤飞飞	album:
+2#song:天涯歌女	singer:凤飞飞	album:
+2#song:姑娘十八一朵花	singer:凤飞飞	album:
+
+
+
+
+暧昧
+3#song:暧昧	singer:王菲	album:王菲 89-97 32精选
+3#song:暧昧	singer:杨丞琳	album:暧昧
+0#song:只想爱你	singer:杨丞琳	album:暧昧
+1#song:暧昧	singer:汤雷	album:爱的风景
+0#song:理想情人	singer:杨丞琳	album:暧昧
+0#song:习惯	singer:杨丞琳	album:暧昧
+1#song:暧昧	singer:纯音乐	album:王菲音乐盒
+0#song:下一次微笑	singer:杨丞琳	album:暧昧
+0#song:爱情的颜色	singer:杨丞琳	album:暧昧
+0#song:不见	singer:杨丞琳	album:暧昧
+
+
+
+
+
+王力宏
+2#song:你不知道的事	singer:王力宏	album:
+1#song:爱一点	singer:王力宏,章子怡	album:
+3#song:依然爱你	singer:王力宏	album:
+2#song:你是我心内的一首歌	singer:王力宏,任家萱	album:
+2#song:火力全开	singer:王力宏	album:
+1#song:好心分手	singer:卢巧音,王力宏	album:
+3#song:大城小爱	singer:王力宏	album:
+2#song:我们的歌	singer:王力宏	album:
+2#song:唯一	singer:王力宏	album:
+3#song:改变自己	singer:王力宏	album:
+
+
+
+
+那一天
+3#song:那一天	singer:杨坤	album:那一天
+0#song:月亮可以代表我的心	singer:杨坤	album:那一天
+1#song:那一天	singer:潘玮柏	album:24个比利
+1#song:那一天	singer:降央卓玛	album:金色的呼唤Ⅱ
+1#song:那一天	singer:周国贤	album:周国贤同名Ep
+0#song:替身	singer:杨坤	album:那一天
+2#song:那一天	singer:何洁	album:
+1#song:那一天	singer:降央卓玛	album:金色的呼唤 II
+0#song:爱简单	singer:杨坤	album:那一天
+1#song:那一天	singer:田一龙	album:
+
+
+
+
+狮子座
+3#song:狮子座	singer:曾轶可	album:狮子座
+1#song:狮子座	singer:胖哥哥	album:
+1#song:狮子座	singer:回音哥	album:
+2#song:狮子座	singer:陶辰宇	album:
+1#song:狮子座	singer:Kris	album:
+1#song:狮子座	singer:彭青	album:十二星座
+1#song:狮子座	singer:石头剪子布	album:
+1#song:狮子座	singer:毛阿敏	album:
+1#song:狮子座	singer:小曾	album:
+1#song:狮子座	singer:邓涛	album:何必在一起
+
+
+
+黑色毛衣
+3#song:黑色毛衣	singer:周杰伦	album:十一月的萧邦
+1#song:黑色毛衣	singer:vae许嵩	album:
+1#song:黑色毛衣	singer:宋晓春	album:
+1#song:黑色毛衣	singer:林志美	album:原美主义-柏菲唱片
+1#song:黑色毛衣	singer:周笔畅	album:
+1#song:黑色毛衣	singer:香儿	album:
+1#song:黑色毛衣	singer:费星	album:紫惑
+1#song:黑色毛衣	singer:暗杠	album:
+1#song:黑色毛衣	singer:陈石	album:
+1#song:黑色毛衣	singer:代悦	album:
+
+
+
+
+张宇
+3#song:月亮惹的祸	singer:张宇	album:
+2#song:趁早	singer:张宇	album:
+1#song:给你们	singer:张宇	album:
+3#song:雨一直下	singer:张宇	album:
+2#song:曲终人散	singer:张宇	album:
+1#song:小小的太阳	singer:张宇	album:
+2#song:用心良苦	singer:张宇	album:
+2#song:大女人	singer:张宇	album:
+1#song:心术	singer:张宇	album:
+1#song:男人的好	singer:张宇	album:
+
+
+
+
+张惠妹
+3#song:三月	singer:张惠妹	album:
+2#song:都对也都错	singer:张惠妹	album:
+2#song:这样你还要爱我吗	singer:张惠妹	album:
+3#song:偏执面	singer:张惠妹,蛋堡	album:
+2#song:自虐	singer:张惠妹	album:
+2#song:狗	singer:张惠妹	album:
+2#song:跳进来	singer:张惠妹	album:
+1#song:Booty Call	singer:张惠妹	album:
+2#song:飞高高	singer:张惠妹	album:
+2#song:前进乌托邦	singer:张惠妹	album:
+
+
+
+
+蔡依林
+1#song:Shake Your Body	singer:郭富城,罗志祥,蔡依林,吴莫愁	album:
+3#song:日不落	singer:蔡依林	album:
+1#song:万花瞳	singer:蔡依林	album:
+1#song:我知道你很难过	singer:蔡依林	album:
+2#song:倒带	singer:蔡依林	album:
+3#song:今天你要嫁给我	singer:陶喆,蔡依林	album:
+2#song:布拉格广场	singer:蔡依林,周杰伦	album:
+2#song:说爱你	singer:蔡依林	album:
+2#song:妥协	singer:蔡依林	album:
+3#song:看我72变	singer:蔡依林	album:
+
+
+
+
+借口
+3#song:借口	singer:周杰伦	album:2006 Ringback Tone Champion Mandarin Songs
+1#song:借口	singer:S.H.E	album:Play
+1#song:借口	singer:金南玲	album:借口
+0#song:夜	singer:金南玲	album:借口
+0#song:Nothing	singer:金南玲	album:借口
+1#song:借口	singer:金南玲	album:借口
+0#song:夜	singer:金南玲	album:借口
+0#song:Nothing	singer:金南玲	album:借口
+1#song:借口	singer:胡彦斌	album:Music混合体
+1#song:借口	singer:王菲	album:非常传奇_紫水晶
+
+
+
+
+
+时间煮雨
+2#song:时间煮雨	singer:吴亦凡	album:时间煮雨
+3#song:时间煮雨	singer:郁可唯	album:时间煮雨
+1#song:时间煮雨	singer:丁丁	album:
+1#song:时间煮雨	singer:以东	album:
+1#song:时间煮雨	singer:孟慧圆	album:
+1#song:时间煮雨伴	singer:	album:
+1#song:4.时间煮雨	singer:	album:
+3#song:时间煮雨+王妃	singer:郁可唯	album:2014湖南卫视跨年演唱会
+3#song:时间煮雨 - live 版	singer:郁可唯	album:
+1#song:时间煮雨 - 风车 做伴奏	singer:一青窈	album:
+
+
+
+
+
+彩虹
+1#song:彩虹	singer:叶蓓	album:双鱼
+1#song:彩虹	singer:羽泉	album:冷酷到底
+1#song:彩虹	singer:许巍	album:在路上…
+1#song:彩虹	singer:动力火车	album:就是红辉煌全记录
+1#song:彩虹	singer:秦时明月	album:
+1#song:彩虹	singer:张惠妹	album:阿密特
+2#song:彩虹	singer:五月天	album:人生海海
+1#song:彩虹	singer:伍佰	album:1015 新歌+精选
+1#song:彩虹	singer:乔楚熙	album:秦时明月 原声大碟
+1#song:彩虹	singer:梁静茹	album:一夜长大
+
+
+
+
+你不知道的事
+3#song:你不知道的事	singer:王力宏	album:十八般武艺
+2#song:你不知道的事	singer:范玮琪,鲍丹	album:最美和声 第3期
+1#song:你不知道的事	singer:桂雨濛	album:中国好声音第二季 第5期
+1#song:你不知道的事	singer:Robynn&Kendy	album:Robynn&Kendy同名专辑
+1#song:你不知道的事	singer:泳儿	album:爱.情歌
+1#song:你不知道的事	singer:桂雨蒙	album:
+1#song:你不知道的事	singer:Jason Chen	album:节省钱
+3#song:你不知道的事	singer:王力宏	album:跨年演唱会2012-2013 华语篇2
+1#song:你不知道的事	singer:七小七	album:美女主播
+1#song:你不知道的事	singer:胡夏	album:
+
+
+
+
+听说爱情回来过
+3#song:听说爱情回来过	singer:林忆莲	album:拥有忆莲
+2#song:听说爱情回来过	singer:杨宗纬	album:Star! Start! 星
+2#song:听说爱情回来过	singer:李代沫	album:我的歌声里
+2#song:听说爱情回来过	singer:蔡依林	album:唯舞独尊 演唱会鲜听版&混音
+1#song:听说爱情回来过	singer:张敬轩	album:张敬轩Unplugged第一乐章音乐会
+1#song:听说爱情回来过	singer:彭佳慧	album:畅情录
+1#song:听说爱情回来过	singer:张敬轩	album:903 Id Club 张敬轩拉阔变奏厅Live Cd2
+1#song:听说爱情回来过	singer:陈明	album:我是歌手 第七期
+2#song:听说爱情回来过	singer:蔡依林	album:J世纪Jeneration大牌新曲+精选盘2006-2009
+1#song:听说爱情回来过	singer:林忆莲	album:最爱
+
+
+
+
+生如夏花
+3#song:生如夏花	singer:朴树	album:生如夏花
+1#song:且听风吟	singer:朴树	album:生如夏花
+0#song:Colorful Days	singer:朴树	album:生如夏花
+0#song:我爱你,再见	singer:朴树	album:生如夏花
+0#song:傲慢的上校	singer:朴树	album:生如夏花
+0#song:她在睡梦中	singer:朴树	album:生如夏花
+0#song:傻子才悲伤	singer:朴树	album:生如夏花
+0#song:来不及	singer:朴树	album:生如夏花
+2#song:生如夏花	singer:毕夏	album:中国好声音第二季 汪峰组四进一
+0#song:今夜的滋味	singer:朴树	album:生如夏花
+
+
+
+
+此生不换
+3#song:此生不换	singer:青鸟飞鱼	album:仙剑奇侠传三电视原声带
+1#song:此生不换	singer:小曲儿	album:
+1#song:此生不换 	singer:	album:
+1#song:b - 此生不换	singer:	album:
+0#song:仙 此生不换	singer:	album:
+0#song:无 此生不换	singer:	album:
+1#song:此生不换 mp3	singer:	album:
+1#song:此生不换铃声	singer:	album:
+1#song:mp3 此生不换	singer:	album:
+1#song:此生不换伴奏	singer:	album:
+
+
+
+
+离不开你
+2#song:离不开你	singer:黄绮珊	album:我是歌手 第二期
+2#song:离不开你	singer:朱克	album:中国好声音第二季 第1期
+3#song:离不开你	singer:陈小春	album:绝对收藏
+2#song:离不开你	singer:姚贝娜	album:
+1#song:离不开你	singer:刘欢	album:
+1#song:离不开你	singer:孙楠	album:全能星战 第10期
+1#song:离不开你	singer:刘欢	album:刘欢的沙龙
+1#song:离不开你	singer:邓小坤	album:中国梦之声 第11期
+1#song:离不开你	singer:胡海泉,肖洒	album:最美和声 第10期
+1#song:离不开你	singer:韩雪	album:他们说
+
+
+
+
+我爱他
+3#song:我爱他	singer:丁当	album:夜猫
+1#song:我爱他	singer:何大为	album:中国梦之声 第11期
+1#song:我爱他	singer:陈威全	album:倾听
+1#song:我爱他	singer:王小虎	album:
+1#song:我爱他	singer:何大为	album:
+1#song:我爱他	singer:DJ舞曲	album:国际交际舞大全 cd4
+1#song:我爱他	singer:非同凡响	album:
+1#song:我爱他	singer:小葵	album:
+1#song:我爱他	singer:702	album:
+1#song:我爱他	singer:关诗敏	album:
+
+
+
+
+趁早
+2#song:趁早	singer:李琦	album:中国好声音第二季 第1期
+2#song:趁早	singer:张宇	album:男人的好(新歌+精选)
+3#song:趁早	singer:张惠妹	album:不顾一切
+1#song:趁早	singer:孙露	album:落红泪
+1#song:趁早	singer:张惠妹	album:阿密特 首次世界巡回演唱会
+1#song:趁早	singer:许诺,包文熙	album:中国梦之声 第7期
+1#song:趁早	singer:张学友	album:
+1#song:趁早	singer:80年代	album:唱出爱火花 第11期
+1#song:趁早	singer:馨予	album:女人の歌Ⅱ
+1#song:趁早	singer:孙伯纶	album:直通春晚 第6场
+
+
+
+
+
+洋葱
+2#song:洋葱	singer:平安	album:中国好声音杨坤组PK
+3#song:洋葱	singer:杨宗纬	album:鸽子
+2#song:洋葱	singer:曹格	album:
+2#song:洋葱	singer:丁当	album:Fu Good （下一站 天后 自选+精选）
+1#song:洋葱	singer:TF家族	album:
+2#song:洋葱	singer:五月天	album:
+3#song:洋葱	singer:杨宗纬	album:
+2#song:洋葱	singer:平安	album:直通春晚 第7场
+1#song:洋葱	singer:回音哥	album:
+1#song:洋葱	singer:朱俐静	album:直通春晚 第4场
+
+
+
+
+空城
+2#song:空城	singer:金志文	album:中国好声音杨坤组四进一
+1#song:空城	singer:王菲	album:将爱
+1#song:空城	singer:痛仰	album:
+1#song:空城	singer:苏仨	album:
+1#song:空城	singer:路绮欧	album:
+1#song:空城	singer:梅艳芳	album:床前明月光
+1#song:空城	singer:苏闹闹	album:
+1#song:空城	singer:路琦欧	album:
+1#song:空城	singer:dnf	album:
+1#song:空城  	singer:谢青峰	album:2012年07月网络红歌
+
+
+
+
+我会好好过
+1#song:我会好好过	singer:郭富城	album:信鸽
+3#song:我会好好过	singer:李玖哲	album:
+1#song:我会好好过	singer:明道	album:失恋美学
+1#song:我会好好过	singer:任震昊	album:对唱红Ⅱ
+1#song:我会好好过	singer:群星	album:
+1#song:我会好好过	singer:刘丽娜,小春	album:筝情对话
+1#song:我会好好过	singer:	album:
+1#song:我会好好过   dj残	singer:Dj残	album:
+0#song:离开你我会好好过	singer:杨雪晴	album:
+1#song:我会好好过 e	singer:	album:
+
+
+
+
+依然爱你
+3#song:依然爱你	singer:王力宏	album:火力全开
+1#song:依然爱你	singer:李行亮	album:曾经的歌系列 41
+1#song:依然爱你	singer:千百惠	album:想你的时候(瑞华原版)
+1#song:依然爱你	singer:东方传奇	album:好兄弟姐妹
+0#song:亲密的爱人	singer:张炜	album:依然爱你
+0#song:把爱给了你	singer:陈宝欣	album:依然爱你
+1#song:依然爱你	singer:勤琴	album:习惯
+1#song:依然爱你	singer:陈宝欣	album:依然爱你
+1#song:依然爱你	singer:张凯	album:依然爱你
+0#song:爱醒时分	singer:陈宝欣	album:依然爱你
+
+
+
+
+那些花儿
+3#song:那些花儿	singer:朴树	album:我去2000年 (珍藏版)
+3#song:那些花儿	singer:范玮琪	album:最初的梦想
+1#song:那些花儿	singer:马天宇	album:飞
+1#song:那些花儿	singer:六弦,王矜霖	album:最美和声 第5期
+1#song:那些花儿	singer:简迷离	album:
+0#song:百里香	singer:常安	album:那些花儿
+1#song:那些花儿	singer:常安	album:那些花儿
+0#song:漂洋过海来看你	singer:常安	album:那些花儿
+1#song:那些花儿	singer:苏打绿	album:
+1#song:那些花儿	singer:李娜	album:流泪的紫蝶
+
+
+
+
+喜欢你
+2#song:喜欢你	singer:Beyond	album:25周年精选
+1#song:喜欢你	singer:黄家强	album:叱咤903·组Band时间 家强第一Gig 新曲+Live
+1#song:喜欢你	singer:可米小子	album:Hey !可米小子
+1#song:喜欢你	singer:谭维维	album:
+1#song:喜欢你	singer:郭易	album:夜·色
+3#song:喜欢你	singer:Beyond	album:BEYOND的精彩Live and Basic OK
+1#song:喜欢你	singer:何静	album:喜欢你
+1#song:喜欢你	singer:群星	album:当时爱
+1#song:喜欢你	singer:BEYOND	album:祝你愉快-致家驹
+1#song:喜欢你	singer:Soler	album:
+
+
+
+
+你不是真正的快乐
+3#song:你不是真正的快乐	singer:五月天	album:后青春期的诗
+3#song:你不是真正的快乐	singer:五月天	album:后青春期的诗
+1#song:你不是真正的快乐	singer:Hope组合	album:中国最强音 第十二期
+1#song:你不是真正的快乐	singer:李维	album:情已逝
+1#song:你不是真正的快乐	singer:阿信	album:
+1#song:你不是真正的快乐	singer:崔海平	album:
+1#song:你不是真正的快乐	singer:刘欢	album:
+1#song:你不是真正的快乐	singer:苏妙玲	album:
+1#song:你不是真正的快乐	singer:Hope	album:
+1#song:你不是真正的快乐	singer:Mario	album:
+
+
+
+
+月亮代表我的心
+2#song:月亮代表我的心	singer:邓丽君	album:宝丽金88精品音色系列
+2#song:月亮代表我的心	singer:齐秦	album:齐秦的世纪情歌之迷
+2#song:月亮代表我的心	singer:张国荣	album:钟情 张国荣
+2#song:月亮代表我的心	singer:费玉清	album:风华再现 何日君再来
+2#song:月亮代表我的心	singer:张国荣	album:Leslie Cheung Four Seasons
+2#song:月亮代表我的心	singer:邓丽君	album:邓丽君演唱会安歌
+1#song:月亮代表我的心	singer:蔡琴	album:蔡琴 不了情演唱会
+1#song:月亮代表我的心	singer:F4	album:F4香港红磡演唱会全纪录(2Cd)
+1#song:月亮代表我的心	singer:钟嘉欣	album:Love Love Love
+1#song:月亮代表我的心	singer:DJ小可	album:DJ小可 ④阿里巴巴的魔咒
+
+
+
+
+说谎
+3#song:说谎	singer:林宥嘉	album:感官/世界
+1#song:说谎	singer:张信哲	album:弦歌有你
+1#song:说谎	singer:温兆伦	album:感觉
+0#song:天地情缘	singer:温兆伦	album:说谎
+1#song:说谎	singer:林宥嘉	album:Jazz Channel
+0#song:随风缘	singer:温兆伦	album:说谎
+1#song:说谎	singer:张信哲	album:做你的男人
+1#song:说谎	singer:李晓杰	album:老大
+0#song:一生的爱给你	singer:温兆伦	album:说谎
+1#song:说谎	singer:林欣彤	album:Neway Music Live x 林欣彤音乐会
+
+
+
+
+可不可以不勇敢
+3#song:可不可以不勇敢	singer:范玮琪	album:最初的梦想
+3#song:可不可以不勇敢	singer:范玮琪,曾静玟	album:最美和声 第13期
+1#song:可不可以不勇敢	singer:曾沛慈	album:
+1#song:可不可以不勇敢	singer:文章	album:如果,你知道
+1#song:可不可以不勇敢	singer:程程	album:
+1#song:可不可以不勇敢	singer:南廾凡	album:
+1#song:可不可以不勇敢	singer:44	album:
+1#song:可不可以勇敢	singer:	album:
+1#song:可不可以勇敢	singer:美少女时代	album:
+1#song:可不可以不勇敢（声动亚洲）	singer:余超颖	album:声动亚洲第一期
+
+
+
+
+
+爱情转移
+3#song:爱情转移	singer:陈奕迅	album:1997-2007跨世纪国语精选
+1#song:爱情转移	singer:DJ小可	album:2009慢摇中文冠军舞曲
+1#song:爱情转移	singer:王雅洁	album:王雅洁Lpcd45
+3#song:爱情转移	singer:陈奕迅	album:跨年演唱会2012-2013 华语篇1
+1#song:爱情转移	singer:雷婷	album:当流行遇上发烧时
+1#song:爱情转移	singer:王筝	album:
+1#song:爱情转移	singer:豆豆	album:钢琴别恋
+1#song:醉清风	singer:子涵	album:爱情转移
+1#song:爱情转移	singer:彭芳	album:纯色角4
+1#song:该死的温柔	singer:子涵	album:爱情转移
+
+
+
+
+
+你是我的眼
+2#song:你是我的眼	singer:林宥嘉	album:爱星光精选 昨天今天明天
+1#song:你是我的眼	singer:小臭臭	album:
+3#song:你是我的眼	singer:萧煌奇	album:我们的故事
+1#song:你是我的眼	singer:动力火车	album:继续转动
+1#song:你是我的眼	singer:张玉霞	album:中国好声音那英组PK
+1#song:你是我的眼	singer:黄小琥	album:
+2#song:你是我的眼	singer:林宥嘉	album:神游世界巡迴演唱会台北旗舰场
+1#song:你是我的眼	singer:许艺娜	album:总决赛 直通春晚
+1#song:你是我的眼	singer:动力火车	album:动力火车超越巅峰继续转动演唱会Live数位专辑
+3#song:你是我的眼	singer:萧煌奇	album:跨年演唱会2012-2013 华语篇2
+
+
+
+
+刘德华
+3#song:男人哭吧不是罪	singer:刘德华	album:
+3#song:冰雨	singer:刘德华	album:
+1#song:来生缘	singer:刘德华	album:
+1#song:一起走过的日子	singer:刘德华	album:
+2#song:笨小孩	singer:刘德华,柯受良,吴宗宪	album:
+2#song:谢谢你的爱	singer:刘德华	album:
+1#song:今天	singer:刘德华	album:
+1#song:世界第一等	singer:刘德华	album:
+1#song:暗里着迷	singer:刘德华	album:
+3#song:忘情水	singer:刘德华	album:
+
+
+
+
+
+突然想起你
+3#song:突然想起你	singer:萧亚轩	album:同名专辑
+2#song:突然想起你	singer:林宥嘉	album:Senses Around Live Tour
+1#song:突然想起你	singer:谭小环	album:金碟铁盒珍藏系列—她的沧海遗珠精选
+3#song:突然想起你	singer:萧亚轩	album:Elva萧亚轩Wow3 Live
+1#song:突然想起你	singer:许美静	album:
+1#song:突然想起你	singer:王淑宏	album:
+1#song:突然想起你	singer:凌晗	album:我就是凌晗
+1#song:突然想起你	singer:常安	album:记事本(A2HD+HQCD)1
+1#song:突然想起你	singer:谭小环	album:最差情人
+1#song:突然想起你	singer:阿欢	album:
+
+
+
+
+傻子
+3#song:傻子	singer:林宥嘉	album:大小说家
+1#song:傻子	singer:杨添茸	album:中国好声音第二季 第5期
+2#song:傻子	singer:田馥甄	album:
+3#song:傻子	singer:林宥嘉	album:神游世界巡迴演唱会台北旗舰场
+1#song:傻子	singer:何流	album:也很值得
+1#song:傻子	singer:魏三	album:
+1#song:傻子	singer:Febmor,MC蠢人	album:续玩乐
+1#song:傻子	singer:回音哥	album:
+1#song:傻子 (Live)	singer:棉花糖	album:棉花糖 Katncandix2 幸运儿 2012 TICC演唱会纪实
+1#song:傻子	singer:杨添茸	album:
+
+
+
+
+
+倒带
+3#song:倒带	singer:蔡依林	album:Hitto!!超人气偶像剧主题曲精选
+2#song:倒带	singer:周杰伦	album:
+1#song:倒带	singer:萧敬腾	album:爱的时刻自选辑
+3#song:倒带	singer:蔡依林	album:J1演唱会影音全记录
+1#song:倒带	singer:萧敬腾	album:世界巡回演唱会2012台北站LIVE 重现版
+1#song:倒带	singer:芭比	album:舞曲大阅兵4
+1#song:倒带	singer:群星	album:爱情的城堡 (猫耳朵音乐绘本系列 1)
+1#song:倒带	singer:王茜	album:
+0#song:倒带人生	singer:陈奕迅	album:不想放手
+0#song:倒带人生	singer:林宥嘉	album:Jazz Channel
+
+
+
+
+残酷月光
+2#song:残酷月光	singer:萱萱	album:中国好声音第二季 第2期
+3#song:残酷月光	singer:林宥嘉	album:神秘嘉宾
+2#song:残酷月光	singer:李代沫	album:
+3#song:残酷月光	singer:林宥嘉	album:神游世界巡迴演唱会台北旗舰场
+3#song:残酷月光	singer:林宥嘉	album:903id club 拉阔音乐会
+1#song:残酷月光	singer:陈翔	album:
+1#song:残酷月光	singer:何炅	album:
+1#song:残酷月光	singer:范小蛙	album:
+1#song:残酷月光	singer:周号铭	album:唱出爱火花 第3期
+1#song:残酷月光	singer:吴俊余	album:
+
+
+
+
+勉强幸福
+3#song:勉强幸福	singer:林宥嘉	album:大小说家
+2#song:勉强幸福	singer:容祖儿	album:Show Up
+3#song:勉强幸福	singer:林宥嘉	album:跨年演唱会2012-2013 华语篇2
+3#song:勉强幸福 - demo	singer:林宥嘉	album:
+2#song:勉强幸福 - 伴奏	singer:林宥嘉	album:
+2#song:勉强幸福 - 电台版	singer:林宥嘉	album:
+2#song:勉强幸福 - 226593	singer:林宥嘉	album:
+2#song:勉强幸福 - iradio 首播	singer:林宥嘉	album:
+1#song:勉强幸福 - uni	singer:炎亚纶,李唯枫	album:
+1#song:勉强幸福 demo	singer:佚名	album:
+
+
+
+
+感同身受
+3#song:感同身受	singer:林宥嘉	album:感官/世界
+3#song:感同身受	singer:林宥嘉	album:神游世界巡迴演唱会台北旗舰场
+1#song:感同身受	singer:回音哥	album:
+1#song:感同身受	singer:妤桢	album:
+1#song:感同身受	singer:俊宇,冯博	album:
+1#song:感同身受	singer:煜杰	album:
+1#song:感同身受	singer:陈远平	album:
+1#song:感同身受	singer:丁思忖	album:
+3#song:感同身受 - 迷你演唱会 突然想起你 说谎	singer:林宥嘉	album:
+1#song:感同身受 - 浅川 ft	singer:丁思忖	album:
+
+
+
+
+
+屋顶
+3#song:屋顶	singer:温岚,周杰伦	album:爱回温
+3#song:屋顶	singer:吴宗宪,温岚	album:Endless Love
+3#song:屋顶	singer:周杰伦	album:
+1#song:屋顶	singer:陶喆,关诗敏	album:全能星战 第11期
+1#song:屋顶	singer:范玮琪,李建辉	album:最美和声 第1期
+1#song:屋顶	singer:梁静茹,萧敬腾	album:
+1#song:屋顶	singer:冯绍峰	album:曾经的歌系列35
+1#song:屋顶	singer:劳晓音,郭桓宇	album:唱出爱火花 第9期
+1#song:屋顶	singer:杨宗纬,李宣榕	album:
+1#song:屋顶	singer:赵静怡,黄雅莉,超级女声	album:
+
+
+
+
+给我你的爱
+2#song:给我你的爱	singer:张杰,林宥嘉	album:2013蛇年春晚
+1#song:给我你的爱	singer:杨林	album:纵容美丽
+1#song:给我你的爱	singer:Tank	album:终极一班电视原声带
+1#song:给我你的爱	singer:原梓霏,冷中易	album:
+1#song:给我你的爱	singer:格格,辛健	album:
+1#song:给我你的爱	singer:冷中易	album:Two Ep
+3#song:给我你的爱	singer:郭蓉	album:
+1#song:过得比我好	singer:莫忧	album:给我你的爱
+1#song:给我你的爱	singer:唐禹哲	album:
+1#song:给我你的爱	singer:回音哥	album:
+
+
+
+
+李宇春
+3#song:1987我不知会遇见你	singer:李宇春	album:1987我不知会遇见你
+2#song:下个,路口,见	singer:李宇春	album:李宇春
+2#song:女神经	singer:李宇春	album:女神经
+1#song:Dance To The Music	singer:李宇春	album:女神经
+3#song:再不疯狂我们就老了	singer:李宇春	album:再不疯狂我们就老了
+3#song:和你一样	singer:李宇春	album:
+2#song:蜀绣	singer:李宇春	album:红星闪闪
+1#song:酷	singer:李宇春	album:女神经
+2#song:珍惜	singer:李宇春	album:珍惜
+1#song:阳光总在风雨后	singer:谢娜,李易峰,张杰,李宇春	album:
+
+
+
+
+
+那首歌
+0#song:忘记要忘记	singer:李易峰	album:那首歌
+3#song:那首歌	singer:李易峰	album:那首歌
+0#song:相爱那一年	singer:李易峰	album:那首歌
+2#song:那首歌	singer:林宥嘉	album:爱星光精选 昨天今天明天
+2#song:那首歌	singer:林宥嘉,侧田	album:903id club 拉阔音乐会
+2#song:那首歌	singer:林宥嘉	album:神游世界巡迴演唱会台北旗舰场
+1#song:那首歌	singer:网络歌手	album:曾经的歌系列 42
+1#song:那首歌	singer:赵咏华	album:爱不爱
+1#song:那首歌	singer:麦子杰	album:截然不同
+1#song:那首歌	singer:胡杰夕	album:我真的好想好好的爱你
+
+
+
+
+
+等不到的爱
+3#song:等不到的爱	singer:樊凡	album:等不到的爱
+2#song:等不到的爱	singer:文章(演员)	album:
+2#song:等不到的爱	singer:文章(演员)	album:裸婚时代原声带
+1#song:等不到的爱	singer:杜雯媞	album:孤独的乐章
+1#song:等不到的爱	singer:钟明秋	album:奔向你
+1#song:等不到的爱	singer:群星	album:性感派对DJ 中文版
+1#song:等不到的爱	singer:白晓	album:最爱的人
+1#song:等不到的爱	singer:落落	album:
+1#song:等不到的爱	singer:王爱华	album:
+1#song:等不到的爱	singer:anki	album:
+
+
+
+
+
+曲婉婷
+3#song:我的歌声里	singer:曲婉婷	album:
+3#song:没有什么不同	singer:曲婉婷	album:
+3#song:Drenched	singer:曲婉婷	album:
+1#song:爱的海洋	singer:曲婉婷	album:
+1#song:承认	singer:曲婉婷	album:
+2#song:Jar Of Love	singer:曲婉婷	album:
+2#song:Everything In The World	singer:曲婉婷	album:
+1#song:Hand Hold	singer:曲婉婷	album:
+2#song:我的歌声里(Demo)	singer:曲婉婷	album:
+1#song:今天	singer:曲婉婷	album:
+
+
+
+
+
+爱太痛
+3#song:爱太痛	singer:吴克群	album:MagiK Great Hits 新歌 精选
+1#song:爱太痛	singer:美衫儿	album:半路熟人
+1#song:爱太痛	singer:	album:
+1#song:爱太痛 	singer:	album:
+0#song:滟宝 爱太痛	singer:	album:
+1#song:爱太痛 铃声	singer:	album:
+0#song:仙儿 爱太痛	singer:	album:
+1#song:爱太痛了	singer:	album:
+3#song:爱太痛 克群	singer:	album:
+1#song:复件 爱太痛	singer:	album:
+
+
+
+
+
+我可以
+3#song:我可以	singer:蔡旻佑	album:我们的主打歌2
+1#song:今夜舞起来	singer:张冬玲	album:我可以
+2#song:我可以	singer:游鸿明	album:2008 情歌金选最终回 Cd3
+1#song:红尘缘	singer:张冬玲	album:我可以
+1#song:为何情人那么多	singer:张冬玲	album:我可以
+1#song:爱的火苗	singer:张冬玲	album:我可以
+1#song:美丽大草原	singer:张冬玲	album:我可以
+1#song:草原舞曲	singer:张冬玲	album:我可以
+1#song:妹妹的山丹花	singer:张冬玲	album:我可以
+1#song:你是否还爱着我	singer:张冬玲	album:我可以
+
+
+
+
+
+你的承诺
+1#song:你的承诺	singer:泳儿,海鸣威	album:私人珍藏
+3#song:你的承诺（我的回忆不是我的国语版）	singer:海鸣威	album:我的回忆不是我的
+1#song:你的承诺	singer:徐良	album:
+1#song:你的承诺	singer:回音哥	album:
+1#song:你的承诺	singer:栗雅馨	album:试音栗雅馨DSD
+1#song:你的承诺	singer:雅萱	album:我们说好的
+1#song:你的承诺	singer:王子月	album:重来
+1#song:你的承诺	singer:高凌风	album:脸红的时候
+1#song:你的承诺	singer:群星	album:情歌试音王9号·金牌发烧女声
+1#song:你的承诺	singer:张孟军	album:想你的声音
+
+
+
+
+泡沫
+3#song:泡沫	singer:G.E.M.邓紫棋	album:Xposed
+1#song:泡沫	singer:简红	album:泡沫
+3#song:泡沫	singer:邓紫棋	album:X.X.X.Live
+3#song:泡沫	singer:G.E.M.邓紫棋	album:
+2#song:泡沫	singer:南拳妈妈	album:藏宝图
+1#song:泡沫	singer:新秀团队	album:不灭的光芒
+1#song:泡沫	singer:夏天Alex	album:
+1#song:泡沫	singer:张忆亚	album:泡沫
+1#song:小女生	singer:张忆亚	album:泡沫
+1#song:Beautiful baby	singer:张忆亚	album:泡沫
+
+
+
+
+回忆的沙漏
+3#song:回忆的沙漏	singer:G.E.M.邓紫棋	album:G.E.M.
+3#song:回忆的沙漏	singer:邓紫棋	album:18（国语专辑）
+1#song:回忆的沙漏	singer:群星	album:钢琴心情101
+3#song:回忆的沙漏	singer:G.E.M.	album:
+1#song:回忆的沙漏 (国)	singer:G.E.	album:
+1#song:回忆的沙漏 伴奏	singer:佚名	album:
+3#song:邓紫棋 - 回忆的沙漏 bk vs ctm mix	singer:dj的灵魂	album:
+1#song:韶关dj谢彬_2011 回忆的沙漏club串	singer:Dj谢彬_2011	album:
+1#song:g 回忆的沙漏	singer:	album:
+1#song:n回忆的沙漏	singer:	album:
+
+
+
+
+记得
+2#song:记得	singer:李琦	album:中国好声音第二季 终极考核
+3#song:记得	singer:张惠妹	album:真实
+1#song:记得	singer:林俊杰	album:她说 概念自选辑
+1#song:记得	singer:方大同	album:可啦思刻(Taipei Tour 2009典藏限定版)
+1#song:记得	singer:萧敬腾	album:
+3#song:记得	singer:张惠妹	album:张惠妹2002世界巡回演唱会
+1#song:记得	singer:刘浩龙	album:记得
+1#song:记得	singer:情歌伴侣	album:情歌伴侣 Vol. 1
+1#song:记得	singer:刘浩龙	album:10 X 10我至爱演唱会
+1#song:记得	singer:德格叶	album:
+
+
+
+
+囚鸟
+2#song:囚鸟	singer:G.E.M.邓紫棋	album:曾经的歌系列34
+3#song:囚鸟	singer:彭羚	album:爱情部落格2之因爱而声
+2#song:囚鸟	singer:张宇	album:温古知新
+2#song:囚鸟	singer:田馥甄	album:田馥甄To My Love影音馆
+0#song:我是否也在你心中	singer:高安,囚鸟	album:2010年三月热搜歌
+1#song:囚鸟	singer:王俊凯	album:
+1#song:囚鸟	singer:郁可唯	album:我为歌狂 第2期
+1#song:囚鸟	singer:孙露	album:爱人别走
+2#song:囚鸟	singer:温岚	album:我为歌狂 第2期
+2#song:囚鸟	singer:胡夏	album:超级星光大道第六届冠军胡夏live合集
+
+
+
+
+不存在的存在
+3#song:不存在的存在	singer:G.E.M.邓紫棋	album:Xposed
+3#song:不存在的存在	singer:邓紫棋	album:X.X.X.Live
+3#song:不存在的存在	singer:G.E.M.邓紫棋	album:
+1#song:不存在的存在	singer:	album:
+1#song:不存在的你	singer:	album:
+1#song:不存在的情人	singer:林俊杰	album:学不会 Lost N Found
+1#song:不存在的敌人	singer:郭俊麟,廖韦卓	album:超级创作排行榜(第一季)
+1#song:不存在的寓言	singer:黄舒骏	album:未来的街头
+1#song:不存在的存在 (Live)	singer:G.E.M. 邓紫棋	album:
+1#song:到处不存在的我	singer:小人	album:小人国
+
+
+
+
+Rihanna
+3#song:The Monster	singer:Eminem,Rihanna	album:
+2#song:Rude Boy	singer:Rihanna	album:
+1#song:Only Girl (In The World)	singer:Rihanna	album:
+3#song:Love The Way You Lie (Part Ii)	singer:Rihanna,Eminem	album:
+3#song:Diamonds	singer:Rihanna	album:
+2#song:Take A Bow	singer:Rihanna	album:
+1#song:S&M	singer:Rihanna	album:
+2#song:We Found Love	singer:Rihanna	album:
+1#song:Stay	singer:Rihanna	album:
+2#song:Umbrella	singer:Rihanna	album:
+
+
+
+
+范玮琪
+1#song:铃铃	singer:萧敬腾,范玮琪	album:
+3#song:最初的梦想	singer:范玮琪	album:
+3#song:一个像夏天一个像秋天	singer:范玮琪	album:
+1#song:最重要的决定	singer:范玮琪	album:
+2#song:是非题	singer:范玮琪	album:
+2#song:到不了	singer:范玮琪	album:
+2#song:有你真好	singer:范玮琪,杨丞琳	album:
+2#song:你不知道的事	singer:范玮琪,鲍丹	album:
+3#song:那些花儿	singer:范玮琪	album:
+1#song:如果的事	singer:范玮琪,张韶涵	album:
+
+
+
+
+弦子
+3#song:不得不爱	singer:潘玮柏,弦子	album:
+3#song:舍不得	singer:弦子	album:
+1#song:老爹	singer:迪克牛仔,弦子	album:
+3#song:醉清风	singer:弦子	album:
+2#song:沿海地带	singer:弦子	album:
+2#song:逆风的蔷薇	singer:弦子	album:
+1#song:什么都不管	singer:弦子	album:
+2#song:天真	singer:弦子	album:
+2#song:第三者的第三者	singer:弦子	album:
+1#song:非你不爱	singer:弦子	album:
+
+
+
+
+孙燕姿
+3#song:遇见	singer:孙燕姿	album:
+3#song:我怀念的	singer:孙燕姿	album:
+2#song:我也很想他	singer:孙燕姿	album:
+2#song:天黑黑	singer:孙燕姿	album:
+3#song:开始懂了	singer:孙燕姿	album:
+1#song:咕叽咕叽	singer:孙燕姿	album:
+2#song:我不难过	singer:孙燕姿	album:
+1#song:天使的指纹	singer:孙燕姿	album:
+2#song:绿光	singer:孙燕姿	album:
+1#song:克卜勒	singer:孙燕姿	album:
+
+
+
+
+张芸京
+3#song:偏爱	singer:张芸京	album:
+3#song:春泥	singer:张芸京	album:
+2#song:黑裙子	singer:张芸京	album:
+2#song:让我照顾你	singer:张芸京	album:
+3#song:破天荒	singer:张芸京	album:
+1#song:情人结	singer:张芸京	album:
+2#song:相反的我	singer:张芸京	album:
+1#song:你是唯一	singer:张芸京	album:
+2#song:小王子	singer:张芸京	album:
+1#song:怎么开始忘了	singer:林隆璇,张芸京	album:
+
+
+
+
+林宥嘉
+3#song:你是我的眼	singer:林宥嘉	album:
+3#song:说谎	singer:林宥嘉	album:
+3#song:残酷月光	singer:林宥嘉	album:
+1#song:心酸	singer:林宥嘉	album:
+2#song:突然想起你	singer:林宥嘉	album:
+1#song:心酸	singer:林宥嘉	album:
+1#song:我爱的人	singer:林宥嘉	album:
+2#song:傻子	singer:林宥嘉	album:
+2#song:给我你的爱	singer:张杰,林宥嘉	album:
+1#song:想自由	singer:林宥嘉	album:
+
+
+
+
+孟庭苇
+3#song:风中有朵雨做的云	singer:孟庭苇	album:
+3#song:羞答答的玫瑰静悄悄地开	singer:孟庭苇	album:
+2#song:谁的眼泪在飞	singer:孟庭苇	album:
+2#song:野百合也有春天	singer:孟庭苇	album:
+2#song:没有情人的情人节	singer:孟庭苇	album:
+1#song:伤了你的心的我伤心	singer:孟庭苇	album:
+3#song:冬季到台北来看雨	singer:孟庭苇	album:
+1#song:爱的箴言	singer:孟庭苇	album:
+2#song:红雨	singer:孟庭苇,李翊君	album:
+1#song:往事	singer:孟庭苇	album:
+
+
+
+
+郁可唯
+1#song:原谅不美好	singer:郁可唯	album:
+2#song:爱要多现实	singer:郁可唯	album:
+3#song:温水	singer:郁可唯	album:
+2#song:自言自语	singer:郁可唯	album:
+3#song:远方	singer:郁可唯	album:
+2#song:这么多年	singer:郁可唯	album:
+2#song:暖乡	singer:郁可唯	album:
+3#song:唯	singer:郁可唯	album:
+1#song:呆着	singer:郁可唯	album:
+1#song:Invisible Love	singer:郁可唯	album:
+
+
+
+
+蔡健雅
+1#song:周三的情书	singer:蔡健雅,周三	album:
+3#song:Beautiful Love	singer:蔡健雅	album:
+2#song:无底洞	singer:蔡健雅	album:
+3#song:陌生人	singer:蔡健雅	album:
+1#song:红色高跟鞋	singer:蔡健雅	album:
+1#song:别找我麻烦	singer:蔡健雅	album:
+3#song:原点	singer:蔡健雅,孙燕姿	album:
+2#song:呼吸	singer:蔡健雅	album:
+2#song:二手烟	singer:蔡健雅	album:
+2#song:下一次爱情来的时候	singer:蔡健雅	album:
+
+
+
+
+林志炫
+3#song:单身情歌	singer:林志炫	album:
+2#song:烟花易冷	singer:林志炫	album:
+2#song:没离开过	singer:林志炫	album:
+2#song:离人	singer:林志炫	album:
+3#song:蒙娜丽莎的眼泪	singer:林志炫	album:
+1#song:凤凰花开的路口	singer:林志炫	album:
+1#song:浮夸	singer:林志炫	album:
+2#song:你的样子	singer:林志炫	album:
+3#song:散了吧	singer:林志炫	album:
+1#song:夜夜夜夜	singer:林志炫	album:
+
+
+
+
+那英
+3#song:白天不懂夜的黑	singer:那英	album:
+1#song:只要有你	singer:那英,孙楠	album:
+1#song:让我一次爱个够+征服+哭不出来+存在	singer:那英,庾澄庆,汪峰,张惠妹	album:
+2#song:春暖花开	singer:那英	album:
+3#song:征服	singer:那英	album:
+1#song:愿赌服输	singer:那英	album:
+2#song:一笑而过	singer:那英	album:
+1#song:山不转水转	singer:那英	album:
+2#song:梦一场	singer:那英	album:
+2#song:雾里看花	singer:那英	album:
+
+
+
+
+许嵩
+1#song:山水之间	singer:许嵩(Vae)	album:
+2#song:清明雨上	singer:许嵩(Vae)	album:
+3#song:断桥残雪	singer:许嵩(Vae)	album:
+3#song:素颜	singer:许嵩(Vae),何曼婷	album:
+2#song:庐州月	singer:许嵩(Vae)	album:
+2#song:半城烟沙	singer:许嵩(Vae)	album:
+1#song:天龙八部之宿敌	singer:许嵩(Vae)	album:
+3#song:玫瑰花的葬礼	singer:许嵩(Vae)	album:
+2#song:浅唱	singer:许嵩(Vae),Dior	album:
+2#song:千百度	singer:许嵩(Vae)	album:
+
+
+
+
+张学友
+1#song:童真年代	singer:张学友	album:
+2#song:一对寂寞的心	singer:张学友	album:
+1#song:夜半轻私语	singer:张学友	album:
+1#song:接近	singer:张学友	album:
+3#song:吻别	singer:张学友	album:
+2#song:如果这都不算爱	singer:张学友	album:
+3#song:你最珍贵	singer:张学友,高慧君	album:
+2#song:一路上有你	singer:张学友	album:
+3#song:慢慢	singer:张学友	album:
+2#song:心如刀割	singer:张学友	album:
+
+
+
+
+张信哲
+2#song:爱你没错	singer:张信哲	album:
+1#song:爱你的宿命	singer:张信哲	album:
+3#song:爱如潮水	singer:张信哲	album:
+2#song:白月光	singer:张信哲	album:
+1#song:有一点动心	singer:张信哲,刘嘉玲	album:
+2#song:信仰	singer:张信哲	album:
+3#song:过火	singer:张信哲	album:
+2#song:别让情两难	singer:范文芳,张信哲	album:
+2#song:爱就一个字	singer:张信哲	album:
+3#song:从开始到现在	singer:张信哲	album:
+
+
+
+
+七朵组合
+3#song:落花情	singer:七朵组合	album:
+3#song:咏春	singer:七朵组合	album:
+3#song:玉生烟	singer:七朵组合	album:
+2#song:宫商角徵羽	singer:七朵组合	album:
+1#song:蝴蝶恋	singer:七朵组合	album:
+1#song:神武女儿国	singer:七朵组合	album:
+2#song:心慌慌	singer:七朵组合	album:
+1#song:Honey	singer:七朵组合	album:
+1#song:桂花香	singer:七朵组合	album:
+2#song:寂（中国风少女时代Gee，舞蹈练习室版）	singer:七朵组合	album:
+
+
+
+
+BY2
+1#song:怎样说清此刻的心情	singer:BY2	album:
+3#song:我知道	singer:By2	album:
+2#song:爱丫爱丫	singer:By2	album:
+1#song:爱的双重魔力	singer:By2	album:
+2#song:你并不懂我	singer:By2	album:
+2#song:不哭了	singer:BY2	album:
+3#song:不够成熟	singer:By2	album:
+2#song:爱情闯进门	singer:By2	album:
+2#song:不是故意	singer:By2	album:
+3#song:红蜻蜓	singer:By2	album:
+
+
+
+
+
+王心凌
+1#song:Baby Boy	singer:王心凌	album:
+1#song:陈淑芬与林志豪	singer:王心凌	album:
+2#song:那年夏天宁静的海	singer:王心凌	album:
+3#song:第一次爱的人	singer:王心凌	album:
+3#song:睫毛弯弯	singer:王心凌	album:
+3#song:花的嫁纱	singer:王心凌	album:
+1#song:变成陌生人	singer:王心凌	album:
+2#song:我会好好的	singer:王心凌	album:
+2#song:彩虹的微笑	singer:王心凌	album:
+1#song:匿名的安慰	singer:王心凌	album:
+
+
+
+
+阿桑
+3#song:一直很安静	singer:阿桑	album:
+3#song:寂寞在唱歌	singer:阿桑	album:
+3#song:温柔的慈悲	singer:阿桑	album:
+2#song:受了点伤	singer:阿桑	album:
+2#song:叶子	singer:阿桑	album:
+1#song:让我爱	singer:阿桑	album:
+2#song:野百合也有春天	singer:阿桑	album:
+1#song:疯了	singer:阿桑	album:
+1#song:看透	singer:阿桑	album:
+2#song:你要离开的一些时候	singer:阿桑	album:
+
+
+
+
+胡彦斌
+1#song:依然是你	singer:胡彦斌	album:
+1#song:胜利的能量	singer:胡彦斌	album:
+2#song:恋人歌歌	singer:胡彦斌	album:
+3#song:红颜	singer:胡彦斌	album:
+2#song:月光	singer:胡彦斌	album:
+1#song:男人Ktv	singer:胡彦斌	album:
+3#song:诀别诗	singer:胡彦斌	album:
+2#song:潇湘雨	singer:胡彦斌	album:
+1#song:愿望	singer:胡彦斌	album:
+3#song:蝴蝶	singer:胡彦斌	album:
+
+
+
+
+刘亦菲
+2#song:放下	singer:刘亦菲	album:
+1#song:白蛇传 - 换心	singer:刘诗诗,刘亦菲	album:
+1#song:梦不死	singer:邓超,刘亦菲,邹兆龙,郑中基	album:
+3#song:心悸	singer:刘亦菲	album:
+1#song:天下无双	singer:刘亦菲	album:
+2#song:一克拉的眼泪	singer:刘亦菲	album:
+3#song:放飞美丽	singer:刘亦菲	album:
+2#song:你爱上他了吗(清晰版)	singer:刘亦菲	album:
+2#song:幸运草	singer:刘亦菲	album:
+1#song:等雪来	singer:刘亦菲	album:
+
+
+
+
+薛凯琪
+1#song:一起老去	singer:薛凯琪,陈意涵,杨子姗	album:
+3#song:一个人失忆	singer:薛凯琪	album:
+1#song:复刻回忆	singer:方大同,薛凯琪	album:
+2#song:Better Me	singer:薛凯琪	album:
+3#song:半路	singer:薛凯琪	album:
+2#song:四人游	singer:方大同,薛凯琪	album:
+3#song:唯爱	singer:薛凯琪,周子扬	album:
+1#song:找到天使了	singer:薛凯琪	album:
+2#song:黑色泪滴	singer:薛凯琪	album:
+2#song:新不了情	singer:薛凯琪	album:
+
+
+
+
+凤凰传奇
+2#song:陪你一辈子	singer:凤凰传奇	album:
+1#song:感到幸福你就拍拍手	singer:凤凰传奇	album:
+1#song:自由自在	singer:凤凰传奇	album:
+3#song:荷塘月色	singer:凤凰传奇	album:
+1#song:中国味道	singer:凤凰传奇	album:
+3#song:我从草原来	singer:凤凰传奇	album:
+3#song:最炫民族风	singer:凤凰传奇	album:
+1#song:开门大吉	singer:凤凰传奇	album:
+2#song:我们的歌谣	singer:凤凰传奇	album:
+1#song:奢香夫人	singer:凤凰传奇	album:
+
+
+
+
